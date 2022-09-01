@@ -16,6 +16,7 @@ Example:
   theme set Gruvbox # to set a theme`;
   }
 
+  // TODO add a theme cycle
   switch (args[0]) {
     case 'ls':
       let result = Themes.map((theme) => theme.name.toLowerCase()).join(', ');
