@@ -3,17 +3,13 @@
   "version": "2.13.1",
   "license": "MIT",
   "author": {
-    "name": "Yassine Fathi",
-    "url": "https://m4tt72.com",
-    "email": "hi@m4tt72.com"
-  },
-  "funding": {
-    "type": "Paypal",
-    "url": "https://paypal.me/y4ss1n3"
+    "name": "Edwin CLement",
+    "url": "https://term.edwinclement08.com",
+    "email": "edwinclement08@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/m4tt72/terminal"
+    "url": "https://github.com/edwinclement08/terminal"
   },
   "scripts": {
     "start": "next start",
